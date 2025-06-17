@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 0, 0);
+    padding: 60px;
+    color:black;
+}
+.display{
+    flex:auto;
+    padding: 5px;
+    }
+.btn {
+    background-color:black;
+    color:white;
+    border-color:black;
+    border-width:1px;
+}
